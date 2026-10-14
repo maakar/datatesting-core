@@ -1,0 +1,16 @@
+# Gradle/build outputs
+.gradle/
+build/
+
+# IDE metadata
+.idea/
+*.iml
+
+# Common Java build dirs
+out/
+target/
+
+# Private maintainer documentation
+.internal/
+docs-internal/
+internal/
